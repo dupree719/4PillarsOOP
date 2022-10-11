@@ -40,6 +40,7 @@ public class Main {
         for(Integer numbers: nums){
             System.out.println(numbers);
 
+
         }
 
     }
