@@ -1,4 +1,4 @@
-package HashMap;
+package hashmap;
 
 /*
 A HashMap stores items in "key/value" pairs, and you can access them by an index of another type (e.g. a String).
